@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+header {
+  width: 100%;
+  overflow-y: auto;
+  display: flex;
+  background-color: black;
+  padding: 10px;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+.navbar {
+    font-size: 24px;
+    
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  font-size: 18px;
+  gap: 20px;
+}
+
+a {
+  cursor: pointer;
+  padding: 20px;
+}
+
+a:hover {
+  background-color: #2581dc;
+}
+
+button {
+padding: 10px;
+border: none;
+background-color: #2581dc;
+border-radius:3px;
+color:white;
+font-family: 'Roboto';
+font-size: 16px;
+margin: 10px;
+cursor: pointer;
+}
+.buttons {
+    display: flex;
+    justify-content: space-around;
+
+}

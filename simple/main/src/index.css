@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+}
+.cards {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  font-size: 18px;
+  text-align: justify;
+  margin-top: 200px;
+  
+}
+
+.card {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  height: 300px;
+  border-radius: 5px;
+  width: 200px;
+  align-items: center;
+  background-color: black;
+}
