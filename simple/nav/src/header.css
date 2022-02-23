@@ -39,15 +39,17 @@ button {
 padding: 10px;
 border: none;
 background-color: #2581dc;
-border-radius:3px;
 color:white;
 font-family: 'Roboto';
-font-size: 16px;
-margin: 10px;
+font-size: 13px;
+width: 200px;
 cursor: pointer;
+font-weight: bold;
+
 }
 .buttons {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+ 
+
 
 }

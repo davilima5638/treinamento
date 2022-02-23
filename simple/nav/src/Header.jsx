@@ -22,9 +22,6 @@ import "./header.css";
               <li>
                 <a>Contatos</a>
               </li>
-              <li>
-                <a>Produtos no Carrinho: </a>
-              </li>
             </ul>
           </div>
         </div>
